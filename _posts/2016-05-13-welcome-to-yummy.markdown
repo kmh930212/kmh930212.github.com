@@ -1,14 +1,4 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-13 13:25:35 +0200
-categories: jekyll update
----
+# Have a nice day
 
-Welcome to use Yummy Jekyll as your jekyll theme!
-
-## Yummy Jekyll
-
-## How to install
-
-## Licence
+- 이름 : 강명훈
+- 11학번입니다
