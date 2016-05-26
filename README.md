@@ -1,28 +1,28 @@
-# BoHu 
+# Moon Jekyll Theme
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
-It's a simple jekyll blog theme. 
-  
-A style of ZhiHu - the best-known website to share knowledge in China.   
+**[Moon](http://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
 
-In the ZhiHu, you can learn knowledge from all over the world.   
+## Features
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
-In the BoHu, you can share knowledge to all over the world!
+## Preview
 
-1. **Use paging as 1,2,3,4,5......**   
-1. **Searchable for blog.**    
-1. **Classification is supported.**   
-1. **Good compatibility on mobile devices.**    
-1. **Built-in wordart for English and Chinese.**   
-1. **Music player.**   
-**......**
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
 
-**Make it yours in under 10 minutes.**  
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-# Author
+## Getting Started
 
-[Clark Zhao](http://zhaoyuxiang.cn)
-
-
-# License
-
-Use MIT License.
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
